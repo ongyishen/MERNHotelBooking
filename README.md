@@ -18,17 +18,19 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
 
 Please edit **db.js** mongodb connection string 
 
-
+<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/ServerDBConfig.PNG?raw=true" />
 
 You may import the sample collections at **mongodb_collections** folder
 
 **mongodb screenshot**
 
-
+<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/SampleDB.PNG?raw=true" />
 
 ##### Stripe API Key Configuration
 
 Please edit **bookingRoute.js** and put your stripe **private api key**
+
+<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/StripePrivateAPIKey.PNG?raw=true" />
 
 execute following command
 
@@ -60,9 +62,13 @@ nodemon server
 
 Please edit the **package.js** to correct Server API URL
 
-Stripe API Key Configuration
+<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/ClientServerProxy.PNG?raw=true" />
+
+##### Stripe API Key Configuration
 
 Please edit Bookingscreen.js and put your stripe **public api key**
+
+<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/StripePublicAPIKey.PNG?raw=true" />
 
 execute following command
 
@@ -91,6 +97,12 @@ npm start
 
 #### Landing Page
 
+<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/Sample.gif?raw=true" />
+
 #### Profile
 
+<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/SampleCancel.gif?raw=true" />
+
 #### Admin Page
+
+<img src="https://github.com/ongyishen/MERNHotelBooking/blob/main/SampleAdmin.gif?raw=true" />
