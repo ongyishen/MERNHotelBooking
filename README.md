@@ -56,7 +56,7 @@ nodemon server
 
 
 
-## Run Client [ReactJs]
+## Run Client [ReactJs at client folder]
 
 ##### Server API Configuration
 
